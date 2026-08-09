@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Django, backend development, and problem solving**
 
-- 📫 How to reach me **jkurosh511@gmail.com**
+- 📫 How to reach me **kuroshjalilian@gmail.com**
 
 - ⚡ Fun fact **Chemical engineering taught me that most real-world problems are just mass and energy balances in disguise.**
 
