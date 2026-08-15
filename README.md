@@ -1,19 +1,199 @@
-<h1 align="center">Hi 👋, I'm Kurosh</h1>
-<h3 align="center">Backend-focused developer with a chemical engineering background Building practical systems with Python and Django, driven by problem solving</h3>
+# Hi, I'm Kurosh Jalilian
 
-- 🌱 I’m currently learning **Django, RESTful APIs, and exploring FastAPI**
+### Backend & Web Developer | Python & Django | Chemical Engineering
 
-- 💬 Ask me about **Django, backend development, and problem solving**
+I’m a **Backend-focused Web Developer** with a background in **Chemical Engineering**, interested in building practical software systems and understanding how they work under the hood.
 
-- 📫 How to reach me **kuroshjalilian@gmail.com**
+I primarily work with **Python and Django**, building RESTful APIs, backend systems, and database-driven applications. I’m also expanding my knowledge of **FastAPI, system design, software architecture, and scalable backend development**.
 
-- ⚡ Fun fact **Chemical engineering taught me that most real-world problems are just mass and energy balances in disguise.**
+My engineering background has shaped the way I approach software: break a complex problem into smaller parts, understand the constraints, and build a solution that actually works.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kourosh jalilian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kourosh jalilian" height="30" width="40" /></a>
+---
+
+## About Me
+
+* Backend-focused Web Developer working mainly with **Python & Django**
+* Interested in **REST APIs, backend architecture, databases, and scalable systems**
+* Currently learning **FastAPI, advanced Python, and software architecture**
+* Exploring **Ruby & Rails** alongside my main Python stack
+* Chemical Engineering student with an interest in applying programming to engineering problems
+* I enjoy understanding **why a system works**, not just making it work
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ruby,rails" height="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" height="45"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" height="45"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,bash" height="45"/>
+</p>
+
+### Engineering & Other Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=matlab,photoshop" height="45"/>
+</p>
+
+---
+
+## What I'm Working On
+
+### Backend Development
+
+I'm currently focusing on improving my understanding of:
+
+* RESTful API design
+* Django architecture
+* Authentication & authorization
+* Database design
+* Caching
+* Concurrency & race conditions
+* Background jobs
+* API performance
+* Software architecture
+* Docker & deployment
+
+I'm particularly interested in the problems that appear when a simple application starts becoming an actual system.
+
+Because apparently making `CRUD` endpoints is only the beginning.
+
+---
+
+## Featured Project
+
+### VetLMS
+
+A learning management system designed around veterinary education, including educational content, pathology cases, laboratory test analysis, and user progress.
+
+**Built with:**
+
+* Django
+* Python
+* REST APIs
+* PostgreSQL
+* React
+* Docker
+
+🔗 **Live Project:**
+https://vetlms-frontend.vercel.app/
+
+---
+
+## Engineering + Software
+
+My background in Chemical Engineering gives me a different perspective on software development.
+
+Chemical engineering deals heavily with:
+
+**models → constraints → processes → optimization → systems**
+
+Software engineering often does the same thing:
+
+**requirements → architecture → constraints → implementation → optimization**
+
+Whether it's a material balance or a distributed system, the interesting part is usually figuring out where the assumptions break.
+
+---
+
+## Currently Learning
+
+```text
+Python
+ ├── Advanced Python
+ ├── Django
+ ├── REST APIs
+ └── FastAPI
+
+Software Engineering
+ ├── Data Structures & Algorithms
+ ├── Design Patterns
+ ├── SOLID
+ ├── Clean Architecture
+ └── System Design
+
+Infrastructure
+ ├── Docker
+ ├── Linux
+ ├── Nginx
+ └── CI/CD
+
+Languages
+ ├── JavaScript / TypeScript
+ ├── Ruby
+ └── Java
+```
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jkurosh&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkurosh&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://github.com/jkurosh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kourosh-jalilian-129170338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kuroshjalilian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## A Little More
+
+```python
+class Kurosh:
+    role = "Backend & Web Developer"
+    background = "Chemical Engineering"
+
+    primary_stack = [
+        "Python",
+        "Django",
+        "REST APIs",
+        "PostgreSQL",
+        "Docker"
+    ]
+
+    currently_learning = [
+        "FastAPI",
+        "System Design",
+        "Software Architecture",
+        "Ruby on Rails"
+    ]
+
+    mindset = "Understand the problem before optimizing the solution."
+```
+
+---
+
+### Building systems, learning continuously.
