@@ -2,7 +2,7 @@
 
 ### Backend & Web Developer | Python & Django | Chemical Engineering
 
-I’m a **Backend-focused Web Developer** with a background in **Chemical Engineering**, interested in building practical software systems and understanding how they work under the hood.
+I’m a **Backend-focused Web Developer** with a background in **Chemical Engineering**, interested in building practical software systems.
 
 I primarily work with **Python and Django**, building RESTful APIs, backend systems, and database-driven applications. I’m also expanding my knowledge of **FastAPI, system design, software architecture, and scalable backend development**.
 
@@ -141,15 +141,6 @@ Languages
  ├── Ruby
  └── Java
 ```
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkurosh&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkurosh&layout=compact&hide_border=true" height="170"/>
-</p>
 
 ---
 
